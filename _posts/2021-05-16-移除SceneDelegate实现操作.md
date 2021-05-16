@@ -6,9 +6,7 @@ description: 关于SceneDelegate
 keywords: Xcode, SceneDelegate
 ---
 
-## XCode创建工程后如何不使用`SceneDelegate`
 ### 一、Xcode11后创建工程会默认创建`SceneDelegate`
-![image](/images/screenshots/home.png)
 ![image](https://user-images.githubusercontent.com/70840468/118385069-6560c380-b63e-11eb-91ab-8db7884e8518.png)
 ### 二、不使用`SceneDelegate`，回到旧的使用`Delegate`的方式
 #### 需进行操作如下:
