@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://mazhuang.org/jekyll-theme-solid
+url: https://runzhuzhao.github.io
 date_format: "ordinal"
-title: jekyll-theme-solid
-author: Zhuang Ma 
+title: 猪猪的博客
+author: R.un
 
 # ---------------- #
 #   RSS / Email    #
