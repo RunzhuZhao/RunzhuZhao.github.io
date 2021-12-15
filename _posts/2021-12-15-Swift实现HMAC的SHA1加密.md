@@ -7,7 +7,7 @@ keywords: HMAC, Swift
 ---
 
 
-### Swift实现HMAC的SHA1加密
+HMAC是密钥相关的哈希运算消息认证码（Hash-based Message Authentication Code）。HMAC运算利用hash算法，以一个消息M和一个密钥K作为输入，生成一个定长的消息摘要作为输出。
 
 ```
 extension String {
