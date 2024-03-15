@@ -1,3 +1,11 @@
+---
+layout: post
+title: iOS-KVO实现原理与应用
+categories: iOS
+description: iOS系统知识笔记
+keywords: iOS,KVO, 笔记
+---
+
 ## KVO实现原理与应用
 ### KVO实现原理
 当为一个对象`object`的属性`objectProperty`添加观察者的时候，系统内部会派生一个当前对象类的子类`NSKVONotify_Class`，
